@@ -10,7 +10,7 @@ export default function About() {
             <br className="hidden lg:inline-block" /> I love to code.
           </h1>
           <p className="mb-8 leading-relaxed">
-          Computer Science Undergrad and part time student teacher in pursuit of 
+          I am a computer Science Undergrad and part time student teacher in pursuit of 
           knowledge pertaining to software and hardware. Interested in big data 
           and aspires to break into Data Science and Machine Learning.
           </p>
